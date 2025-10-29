@@ -21,7 +21,7 @@ It helps teams quickly bootstrap backend + frontend projects, with simple sample
 
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
 
-<!-- ! Make sure it was similar to your github -->
+<!-- ! Make sure it was similar to your githu -->
 
 ---
 
